@@ -1,0 +1,2 @@
+[32mINFO    [0m manger_department:mange_department.py:30 url: https://qyapi.weixin.qq.com/cgi-bin/department/create
+[32mINFO    [0m manger_department:mange_department.py:31 payload:  {'name': '', 'name_en': 'RDGZ', 'parentid': 1, 'order': 1, 'id': 2}

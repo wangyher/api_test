@@ -1,0 +1,2 @@
+INFO     manger_department:mange_department.py:53 url: https://qyapi.weixin.qq.com/cgi-bin/department/delete
+INFO     manger_department:mange_department.py:54 params: 2

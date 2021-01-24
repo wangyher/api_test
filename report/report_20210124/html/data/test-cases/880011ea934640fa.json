@@ -1,0 +1,143 @@
+{
+  "uid" : "880011ea934640fa",
+  "name" : "test_creat_department[cases0]",
+  "fullName" : "testcases.contacts.test_department.TestDepartment#test_creat_department",
+  "historyId" : "affcfe62ad844788380ac2f73168756f",
+  "time" : {
+    "start" : 1611497598993,
+    "stop" : 1611497599642,
+    "duration" : 649
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "获取创建新部门请求参数",
+      "time" : {
+        "start" : 1611497599300,
+        "stop" : 1611497599300,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "发出创建新部门的请求",
+      "time" : {
+        "start" : 1611497599301,
+        "stop" : 1611497599642,
+        "duration" : 341
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "43b6de27f917a2fe",
+      "name" : "log",
+      "source" : "43b6de27f917a2fe.txt",
+      "type" : "text/plain",
+      "size" : 254
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "创建部门管理"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases.contacts"
+  }, {
+    "name" : "suite",
+    "value" : "test_department"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDepartment"
+  }, {
+    "name" : "host",
+    "value" : "localhost"
+  }, {
+    "name" : "thread",
+    "value" : "13392-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.contacts.test_department"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "cases",
+    "value" : "{'case_description': '创建部门正常1', 'author': 'wangyonghui', 'case_url': 'https://qyapi.weixin.qq.com/cgi-bin/department/create', 'case_method': 'post', 'case_params': '', 'case_body': '{\\n    \"name\": \"北京研发中心\",\\n    \"name_en\": \"BJGZ\",\\n    \"parentid\": 1,\\n    \"order\": 2,\\n    \"id\": 2\\n}', 'case_expect': '{\\n   \"errcode\": 0\\n}'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ed67c64b784acbc0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611497494467,
+        "stop" : 1611497495163,
+        "duration" : 696
+      }
+    }, {
+      "uid" : "3bc8fea208fe38a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611497248699,
+        "stop" : 1611497249330,
+        "duration" : 631
+      }
+    }, {
+      "uid" : "178936245fab60bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611497050498,
+        "stop" : 1611497051443,
+        "duration" : 945
+      }
+    }, {
+      "uid" : "abbea3abd914e595",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611495754673,
+        "stop" : 1611495755302,
+        "duration" : 629
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "run(order=1)" ]
+  },
+  "source" : "880011ea934640fa.json",
+  "parameterValues" : [ "{'case_description': '创建部门正常1', 'author': 'wangyonghui', 'case_url': 'https://qyapi.weixin.qq.com/cgi-bin/department/create', 'case_method': 'post', 'case_params': '', 'case_body': '{\\n    \"name\": \"北京研发中心\",\\n    \"name_en\": \"BJGZ\",\\n    \"parentid\": 1,\\n    \"order\": 2,\\n    \"id\": 2\\n}', 'case_expect': '{\\n   \"errcode\": 0\\n}'}" ]
+}

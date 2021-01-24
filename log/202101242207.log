@@ -1,0 +1,22 @@
+2021-01-24 22:07:29,025 - mange_department.py[line:30] - INFO: url: https://qyapi.weixin.qq.com/cgi-bin/department/create
+2021-01-24 22:07:29,025 - mange_department.py[line:31] - INFO: payload:  {'name': '北京研发中心', 'name_en': 'BJGZ', 'parentid': 1, 'order': 2, 'id': 2}
+2021-01-24 22:07:29,596 - mange_department.py[line:30] - INFO: url: https://qyapi.weixin.qq.com/cgi-bin/department/create
+2021-01-24 22:07:29,596 - mange_department.py[line:31] - INFO: payload:  {'name': '上海研发中心', 'name_en': 'SHGZ', 'parentid': 1, 'order': 3, 'id': 3}
+2021-01-24 22:07:30,160 - mange_department.py[line:30] - INFO: url: https://qyapi.weixin.qq.com/cgi-bin/department/create
+2021-01-24 22:07:30,160 - mange_department.py[line:31] - INFO: payload:  {'name': '', 'name_en': 'RDGZ', 'parentid': 1, 'order': 1, 'id': 2}
+2021-01-24 22:07:30,702 - mange_department.py[line:42] - INFO: url: https://qyapi.weixin.qq.com/cgi-bin/department/update
+2021-01-24 22:07:30,702 - mange_department.py[line:43] - INFO: payload:  {'id': 2, 'name': '广州update研发中心', 'name_en': 'RDGZ', 'parentid': 1, 'order': 1}
+2021-01-24 22:07:31,305 - mange_department.py[line:42] - INFO: url: https://qyapi.weixin.qq.com/cgi-bin/department/update
+2021-01-24 22:07:31,306 - mange_department.py[line:43] - INFO: payload:  {'id': None, 'name': '广州研发中心', 'name_en': 'RDGZ', 'parentid': 1, 'order': 1}
+2021-01-24 22:07:31,869 - mange_department.py[line:65] - INFO: url: https://qyapi.weixin.qq.com/cgi-bin/department/list
+2021-01-24 22:07:31,869 - mange_department.py[line:66] - INFO: params: {'access_token': 'IYBccmOhsDPPtO1GA9Q0sxiTbQhQ4ILrekzygWeazFtoFQ5v0nCPUx1mUVTmdIkbf5blrDOQwJvyMvotzGsWOpWOqZzOTHTK8Ew8K0QVJh726MScNUjcRwLOs1rWoQEOiAT8uOn52snGI0mUyU069Q9KlsxlgSd63LkDbsS5DmmiNufpffIkL16opiEvwW-5cT2j6y-2_scc476qFliUxg', 'id': 2}
+2021-01-24 22:07:32,451 - mange_department.py[line:65] - INFO: url: https://qyapi.weixin.qq.com/cgi-bin/department/list
+2021-01-24 22:07:32,452 - mange_department.py[line:66] - INFO: params: {'access_token': 'IYBccmOhsDPPtO1GA9Q0sxiTbQhQ4ILrekzygWeazFtoFQ5v0nCPUx1mUVTmdIkbf5blrDOQwJvyMvotzGsWOpWOqZzOTHTK8Ew8K0QVJh726MScNUjcRwLOs1rWoQEOiAT8uOn52snGI0mUyU069Q9KlsxlgSd63LkDbsS5DmmiNufpffIkL16opiEvwW-5cT2j6y-2_scc476qFliUxg', 'id': 3}
+2021-01-24 22:07:32,980 - mange_department.py[line:65] - INFO: url: https://qyapi.weixin.qq.com/cgi-bin/department/list
+2021-01-24 22:07:32,981 - mange_department.py[line:66] - INFO: params: {'access_token': 'IYBccmOhsDPPtO1GA9Q0sxiTbQhQ4ILrekzygWeazFtoFQ5v0nCPUx1mUVTmdIkbf5blrDOQwJvyMvotzGsWOpWOqZzOTHTK8Ew8K0QVJh726MScNUjcRwLOs1rWoQEOiAT8uOn52snGI0mUyU069Q9KlsxlgSd63LkDbsS5DmmiNufpffIkL16opiEvwW-5cT2j6y-2_scc476qFliUxg', 'id': ''}
+2021-01-24 22:07:33,517 - mange_department.py[line:53] - INFO: url: https://qyapi.weixin.qq.com/cgi-bin/department/delete
+2021-01-24 22:07:33,518 - mange_department.py[line:54] - INFO: params: 2
+2021-01-24 22:07:34,083 - mange_department.py[line:53] - INFO: url: https://qyapi.weixin.qq.com/cgi-bin/department/delete
+2021-01-24 22:07:34,083 - mange_department.py[line:54] - INFO: params: 3
+2021-01-24 22:07:34,664 - mange_department.py[line:53] - INFO: url: https://qyapi.weixin.qq.com/cgi-bin/department/delete
+2021-01-24 22:07:34,665 - mange_department.py[line:54] - INFO: params: 

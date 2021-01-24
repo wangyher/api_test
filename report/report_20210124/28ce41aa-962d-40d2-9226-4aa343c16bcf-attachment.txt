@@ -1,0 +1,2 @@
+[32mINFO    [0m manger_department:mange_department.py:30 url: https://qyapi.weixin.qq.com/cgi-bin/department/create
+[32mINFO    [0m manger_department:mange_department.py:31 payload:  {'name': '北京研发中心', 'name_en': 'BJGZ', 'parentid': 1, 'order': 2, 'id': 2}

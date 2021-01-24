@@ -1,0 +1,2 @@
+2021-01-24 22:05:38,723 - log.py[line:43] - INFO: abc
+2021-01-24 22:05:38,724 - log.py[line:44] - DEBUG: hello, debug

@@ -1,0 +1,109 @@
+{
+  "uid" : "98a925a960b81913",
+  "name" : "test_update_department[cases1]",
+  "fullName" : "testcases.contacts.test_department.TestDepartment#test_update_department",
+  "historyId" : "692dfda1973dc8ece96f6ecd3c744550",
+  "time" : {
+    "start" : 1611497053176,
+    "stop" : 1611497053739,
+    "duration" : 563
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "获取更新部门请求参数",
+      "time" : {
+        "start" : 1611497053452,
+        "stop" : 1611497053452,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "发出更新部门的请求",
+      "time" : {
+        "start" : 1611497053453,
+        "stop" : 1611497053739,
+        "duration" : 286
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "12f1aa9e2f87334f",
+      "name" : "log",
+      "source" : "12f1aa9e2f87334f.txt",
+      "type" : "text/plain",
+      "size" : 275
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "更新部门管理"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases.contacts"
+  }, {
+    "name" : "suite",
+    "value" : "test_department"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDepartment"
+  }, {
+    "name" : "host",
+    "value" : "localhost"
+  }, {
+    "name" : "thread",
+    "value" : "13147-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.contacts.test_department"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "cases",
+    "value" : "{'case_description': '更新部门异常', 'author': 'wangyonghui', 'case_url': 'https://qyapi.weixin.qq.com/cgi-bin/department/update', 'case_method': 'post', 'case_params': '', 'case_body': '{\\n   \"id\": null,\\n   \"name\": \"广州研发中心\",\\n   \"name_en\": \"RDGZ\",\\n   \"parentid\": 1,\\n   \"order\": 1\\n}', 'case_expect': '{\\n   \"errcode\": 60003\\n}'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "run(order=2)" ]
+  },
+  "source" : "98a925a960b81913.json",
+  "parameterValues" : [ "{'case_description': '更新部门异常', 'author': 'wangyonghui', 'case_url': 'https://qyapi.weixin.qq.com/cgi-bin/department/update', 'case_method': 'post', 'case_params': '', 'case_body': '{\\n   \"id\": null,\\n   \"name\": \"广州研发中心\",\\n   \"name_en\": \"RDGZ\",\\n   \"parentid\": 1,\\n   \"order\": 1\\n}', 'case_expect': '{\\n   \"errcode\": 60003\\n}'}" ]
+}

@@ -1,0 +1,2 @@
+INFO     manger_department:mange_department.py:30 url: https://qyapi.weixin.qq.com/cgi-bin/department/create
+INFO     manger_department:mange_department.py:31 payload:  {'name': '上海研发中心', 'name_en': 'SHGZ', 'parentid': 1, 'order': 3, 'id': 3}

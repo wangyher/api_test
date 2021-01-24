@@ -1,0 +1,111 @@
+[ {
+  "uid" : "b7aec6f95bef12ab",
+  "name" : "test_get_department_list[cases1]",
+  "time" : {
+    "start" : 1611497602539,
+    "stop" : 1611497603107,
+    "duration" : 568
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d2ce146b41cb7a8",
+  "name" : "test_get_department_list[cases0]",
+  "time" : {
+    "start" : 1611497601977,
+    "stop" : 1611497602536,
+    "duration" : 559
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "43d29a9f2a083a29",
+  "name" : "test_delete_department[cases1]",
+  "time" : {
+    "start" : 1611497604286,
+    "stop" : 1611497604896,
+    "duration" : 610
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3aca70d752063591",
+  "name" : "test_delete_department[cases0]",
+  "time" : {
+    "start" : 1611497603684,
+    "stop" : 1611497604283,
+    "duration" : 599
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "880011ea934640fa",
+  "name" : "test_creat_department[cases0]",
+  "time" : {
+    "start" : 1611497598993,
+    "stop" : 1611497599642,
+    "duration" : 649
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "92bd4fbe70f5d54d",
+  "name" : "test_get_department_list[cases2]",
+  "time" : {
+    "start" : 1611497603111,
+    "stop" : 1611497603680,
+    "duration" : 569
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea2d38a5e822db04",
+  "name" : "test_update_department[cases0]",
+  "time" : {
+    "start" : 1611497600781,
+    "stop" : 1611497601410,
+    "duration" : 629
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9bd8a2d13e70488b",
+  "name" : "test_delete_department[cases2]",
+  "time" : {
+    "start" : 1611497604899,
+    "stop" : 1611497605479,
+    "duration" : 580
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74a4c45e8846aae",
+  "name" : "test_creat_department[cases1]",
+  "time" : {
+    "start" : 1611497599645,
+    "stop" : 1611497600234,
+    "duration" : 589
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b42b6aa5bd12f149",
+  "name" : "test_creat_department[cases2]",
+  "time" : {
+    "start" : 1611497600237,
+    "stop" : 1611497600778,
+    "duration" : 541
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "173e2028d5dc32d1",
+  "name" : "test_update_department[cases1]",
+  "time" : {
+    "start" : 1611497601414,
+    "stop" : 1611497601973,
+    "duration" : 559
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
