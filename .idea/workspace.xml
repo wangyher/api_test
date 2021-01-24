@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9c43f59-d113-474e-b53a-bbf6fc8d09c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/common/log.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/contacts_access_token.txt" beforeDir="false" afterPath="$PROJECT_DIR$/conf/contacts_access_token.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/2021012416.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/00d7978d-c6cd-4751-b180-4ac9467aaf31-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/0ee1e0d5-c765-48be-8311-f5124c6900c8-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/1610238c-4338-4726-b521-1497073136dd-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/1928b5f3-7e19-448c-9eea-f00582155d6a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/25226c71-f154-4a55-b881-40602325f239-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/28a4b00a-5804-4f18-8ea9-2998cb10678b-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/385bea01-37e4-45b1-8f56-47c4ded5a810-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/3a3e8010-a76f-4e8c-b401-0149f8198a70-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/3e477b96-d8c5-4dce-a0dd-dbc00985bd16-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/48c98755-0402-4a74-9654-e2a6d1e39ab2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/49b9a862-1429-44cd-955d-de90d351bc4d-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/4ec82ad3-72e6-4cc4-aad2-c35eaecd1ce9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/5a1d2f89-edb9-488c-a13f-fe805627c347-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/6211a3f3-51d2-48fd-8b6a-c1cf6129f5e0-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/70014d50-383d-4362-ae83-64278e6d4f2d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/854f1b2f-a630-47ec-a9f0-feb31aea883c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/87906f62-2f50-47b0-ae95-aa29e6aaea94-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/89c561fd-1052-4d09-b5cd-ec88f6aaf012-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/8e33b815-619c-4dfe-8b31-88942c7c94b0-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/8f2d3fca-15ca-4b58-a003-d99de7ffe41d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/95915c4a-a9fc-4334-976a-0e8697a60c7d-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/9f006b5e-b123-43c3-ad16-f6d9500d56ac-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/a54baf0d-7407-4540-9638-ad857e652cb2-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/aa52b664-0124-4b28-a413-370a67645fdb-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/ab47b363-3ef9-463f-a4ed-958f98d08e03-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/b624331e-2786-4747-99c4-195f3cf9608d-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/b89e7fea-6176-440c-a1ee-c6453ed3c2ce-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/bdd8a51a-9849-474c-b911-3a07e3e782d5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/c1669cd3-b485-4d7a-8439-1c919eef3cb7-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/d9d9632a-0f6d-4fae-a5e6-1fb37c34bb51-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/e1c25cf9-37f9-4b1d-b17b-ff2635d3f493-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/e95ffcfa-2e8f-42d0-90b8-c0c8d4efa5a3-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/fb3bc48d-38e3-49e7-a152-010d2b168a15-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/attachments/12ddbbfa68aef45c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/attachments/227eb3309a278195.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/attachments/264026e59aaabe51.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/attachments/2658c1957e34e3f.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/attachments/3429f62916bd5096.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/attachments/554231cadda72733.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/attachments/a2c31d0b537821ac.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/attachments/b290e8ad4be9c98e.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/attachments/b9b5942906f31016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/attachments/c299c6f936aa1c9b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/attachments/d214109a0c71eb09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/behaviors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/categories.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/packages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/suites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/test-cases/15a90a9a64aa951c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/test-cases/43a85875e95ffead.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/test-cases/482cbfd5da42a00e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/test-cases/5bb2fe5d0b5bb3a5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/test-cases/64764706d0c0a5f8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/test-cases/a013ea52ce622b41.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/test-cases/a1f611728fadb6da.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/test-cases/aa3dcca82500704e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/test-cases/dcc40a80f3ea6b62.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/test-cases/de22485e5d8bf57f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/test-cases/ef7ac4da380de331.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/data/timeline.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/export/influxDbData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/export/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/export/prometheusData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/plugins/behaviors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/plugins/packages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/plugins/screen-diff/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/plugins/screen-diff/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/widgets/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/widgets/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/widgets/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/widgets/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/widgets/duration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/widgets/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/widgets/executors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/widgets/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/widgets/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/widgets/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/widgets/severity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/widgets/status-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/widgets/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report_202101241608/html/widgets/summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/run.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n8BS1pgnouxhsOh8CHPTLVYBF5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/conf" />
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="wechatInterfaceTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9c43f59-d113-474e-b53a-bbf6fc8d09c6" name="Default Changelist" comment="" />
+      <created>1610761833197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610761833197</updated>
+      <workItem from="1610761834734" duration="19405000" />
+      <workItem from="1611366271023" duration="7476000" />
+      <workItem from="1611485161695" duration="1717000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611490355302">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1611490355302" />
+    <state width="1238" height="270" key="GridCell.Tab.0.bottom" timestamp="1611490339666">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="270" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1611490339666" />
+    <state width="1238" height="270" key="GridCell.Tab.0.center" timestamp="1611490339665">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="270" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1611490339665" />
+    <state width="1238" height="270" key="GridCell.Tab.0.left" timestamp="1611490339664">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="270" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1611490339664" />
+    <state width="1238" height="270" key="GridCell.Tab.0.right" timestamp="1611490339665">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="270" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1611490339665" />
+    <state width="1238" height="254" key="GridCell.Tab.1.bottom" timestamp="1610780899612">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="254" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1610780899612" />
+    <state width="1238" height="254" key="GridCell.Tab.1.center" timestamp="1610780899610">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="254" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1610780899610" />
+    <state width="1238" height="254" key="GridCell.Tab.1.left" timestamp="1610780899609">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="254" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1610780899609" />
+    <state width="1238" height="254" key="GridCell.Tab.1.right" timestamp="1610780899611">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="254" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1610780899611" />
+    <state x="141" y="39" key="SettingsEditor" timestamp="1610785652273">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1610785652273" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1610780591930">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.0.1280.800@0.0.1280.800" timestamp="1610780591930" />
+    <state x="86" y="41" width="598" height="618" key="find.popup" timestamp="1611486449399">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="86" y="41" width="598" height="618" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1611486449399" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1610780836254">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1280.800@0.0.1280.800" timestamp="1610780836254" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1610765564193">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1610765564193" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/wechatInterfaceTest$common_func.coverage" NAME="common_func Coverage Results" MODIFIED="1610786956388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/wechatInterfaceTest$11.coverage" NAME="11 Coverage Results" MODIFIED="1611483701010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases/contacts" />
+    <SUITE FILE_PATH="coverage/wechatInterfaceTest$pytest_for_test_department_TestDepartment_test_update_department.coverage" NAME="pytest for test_department.TestDepartment.test_update_department Coverage Results" MODIFIED="1610790368588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases/contacts" />
+    <SUITE FILE_PATH="coverage/wechatInterfaceTest$pytest_for_test_department_TestDepartment_test_get_department_list.coverage" NAME="pytest for test_department.TestDepartment.test_get_department_list Coverage Results" MODIFIED="1610790493804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases/contacts" />
+    <SUITE FILE_PATH="coverage/wechatInterfaceTest$log.coverage" NAME="config_log Coverage Results" MODIFIED="1610765423975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/wechatInterfaceTest$manger_department.coverage" NAME="manger_department Coverage Results" MODIFIED="1610784485178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis/contacts" />
+    <SUITE FILE_PATH="coverage/wechatInterfaceTest$config.coverage" NAME="config Coverage Results" MODIFIED="1610779151975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/wechatInterfaceTest$config_log.coverage" NAME="config_log Coverage Results" MODIFIED="1610781249641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/wechatInterfaceTest$base_api.coverage" NAME="base_api Coverage Results" MODIFIED="1610781217242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis" />
+    <SUITE FILE_PATH="coverage/wechatInterfaceTest$read_excel.coverage" NAME="read_excel Coverage Results" MODIFIED="1611475605291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/wechatInterfaceTest$run.coverage" NAME="run Coverage Results" MODIFIED="1611490365623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wechatInterfaceTest$pytest_for_test_department_TestDepartment.coverage" NAME="pytest for test_department.TestDepartment Coverage Results" MODIFIED="1610786080642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/contacts" />
+    <SUITE FILE_PATH="coverage/wechatInterfaceTest$22.coverage" NAME="22 Coverage Results" MODIFIED="1610765636025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+  </component>
+</project>

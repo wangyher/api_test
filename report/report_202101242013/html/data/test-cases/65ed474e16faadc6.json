@@ -1,0 +1,111 @@
+{
+  "uid" : "65ed474e16faadc6",
+  "name" : "test_delete_department[cases2]",
+  "fullName" : "testcases.contacts.test_department.TestDepartment#test_delete_department",
+  "historyId" : "5c4323a81a8b6b646c933f124e28e778",
+  "time" : {
+    "start" : 1611490408817,
+    "stop" : 1611490409370,
+    "duration" : 553
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "发送删除部门请求参数",
+      "time" : {
+        "start" : 1611490409089,
+        "stop" : 1611490409089,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "发送删除部门的请求",
+      "time" : {
+        "start" : 1611490409090,
+        "stop" : 1611490409370,
+        "duration" : 280
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "15785d9c2c91b94b",
+      "name" : "log",
+      "source" : "15785d9c2c91b94b.txt",
+      "type" : "text/plain",
+      "size" : 184
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "删除部门管理"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=3)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases.contacts"
+  }, {
+    "name" : "suite",
+    "value" : "test_department"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDepartment"
+  }, {
+    "name" : "host",
+    "value" : "localhost"
+  }, {
+    "name" : "thread",
+    "value" : "11934-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.contacts.test_department"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "cases",
+    "value" : "{'case_description': '删除部门异常', 'author': 'wangyonghui', 'case_url': 'https://qyapi.weixin.qq.com/cgi-bin/department/delete', 'case_method': 'get', 'case_params': '{\\n   \"id\": \"\"\\n}', 'case_body': '', 'case_expect': '{\\n   \"errcode\": 40058\\n}'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=3)" ]
+  },
+  "source" : "65ed474e16faadc6.json",
+  "parameterValues" : [ "{'case_description': '删除部门异常', 'author': 'wangyonghui', 'case_url': 'https://qyapi.weixin.qq.com/cgi-bin/department/delete', 'case_method': 'get', 'case_params': '{\\n   \"id\": \"\"\\n}', 'case_body': '', 'case_expect': '{\\n   \"errcode\": 40058\\n}'}" ]
+}

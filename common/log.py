@@ -11,7 +11,7 @@ class Log:
     def config_log(cls, name=None):
         cf = Config()
         log_dir = os.path.join(root_path, cf.get_runtime("log_dir"))
-        current_time = time.strftime("%Y%m%d%H", time.localtime(time.time()))
+        current_time = time.strftime("%Y%m%d%H%M", time.localtime(time.time()))
         log_file = os.path.join(log_dir, current_time + ".log")
 
         # 获取一个标准的logger, 配置loglevel
