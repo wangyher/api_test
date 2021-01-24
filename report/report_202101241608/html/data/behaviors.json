@@ -1,0 +1,164 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "创建部门管理",
+    "children" : [ {
+      "name" : "test_creat_department[cases0]",
+      "uid" : "a1f611728fadb6da",
+      "parentUid" : "066d15aa65e3ccb5f6f35446836c339d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611475701073,
+        "stop" : 1611475701740,
+        "duration" : 667
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'case_description': '创建部门正常1', 'author': 'wangyonghui', 'case_url': 'https://qyapi.weixin.qq.com/cgi-bin/department/create', 'case_method': 'post', 'case_params': '', 'case_body': '{\\n    \"name\": \"北京研发中心\",\\n    \"name_en\": \"BJGZ\",\\n    \"parentid\": 1,\\n    \"order\": 2,\\n    \"id\": 2\\n}', 'case_expect': '{\\n   \"errcode\": 0\\n}'}" ]
+    }, {
+      "name" : "test_creat_department[cases1]",
+      "uid" : "15a90a9a64aa951c",
+      "parentUid" : "066d15aa65e3ccb5f6f35446836c339d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611475701743,
+        "stop" : 1611475702342,
+        "duration" : 599
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'case_description': '创建部门正常2', 'author': 'wangyonghui', 'case_url': 'https://qyapi.weixin.qq.com/cgi-bin/department/create', 'case_method': 'post', 'case_params': '', 'case_body': '{\\n    \"name\": \"上海研发中心\",\\n    \"name_en\": \"SHGZ\",\\n    \"parentid\": 1,\\n    \"order\": 3,\\n    \"id\": 3\\n}', 'case_expect': '{\\n   \"errcode\": 0\\n}'}" ]
+    }, {
+      "name" : "test_creat_department[cases2]",
+      "uid" : "aa3dcca82500704e",
+      "parentUid" : "066d15aa65e3ccb5f6f35446836c339d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611475702346,
+        "stop" : 1611475702871,
+        "duration" : 525
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'case_description': '创建部门异常', 'author': 'wangyonghui', 'case_url': 'https://qyapi.weixin.qq.com/cgi-bin/department/create', 'case_method': 'post', 'case_params': '', 'case_body': '{\\n    \"name\": \"\",\\n    \"name_en\": \"RDGZ\",\\n    \"parentid\": 1,\\n    \"order\": 1,\\n    \"id\": 2\\n}', 'case_expect': '{\\n   \"errcode\": 40058\\n}'}" ]
+    } ],
+    "uid" : "066d15aa65e3ccb5f6f35446836c339d"
+  }, {
+    "name" : "更新部门管理",
+    "children" : [ {
+      "name" : "test_update_department[cases0]",
+      "uid" : "64764706d0c0a5f8",
+      "parentUid" : "3988600b242415f4f28edc09e2f534f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611475702875,
+        "stop" : 1611475703467,
+        "duration" : 592
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'case_description': '更新部门正常', 'author': 'wangyonghui', 'case_url': 'https://qyapi.weixin.qq.com/cgi-bin/department/update', 'case_method': 'post', 'case_params': '', 'case_body': '{\\n   \"id\": 2,\\n   \"name\": \"广州update研发中心\",\\n   \"name_en\": \"RDGZ\",\\n   \"parentid\": 1,\\n   \"order\": 1\\n}', 'case_expect': '{\\n   \"errcode\": 0\\n}'}" ]
+    }, {
+      "name" : "test_update_department[cases1]",
+      "uid" : "ef7ac4da380de331",
+      "parentUid" : "3988600b242415f4f28edc09e2f534f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611475703472,
+        "stop" : 1611475703980,
+        "duration" : 508
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'case_description': '更新部门异常', 'author': 'wangyonghui', 'case_url': 'https://qyapi.weixin.qq.com/cgi-bin/department/update', 'case_method': 'post', 'case_params': '', 'case_body': '{\\n   \"id\": null,\\n   \"name\": \"广州研发中心\",\\n   \"name_en\": \"RDGZ\",\\n   \"parentid\": 1,\\n   \"order\": 1\\n}', 'case_expect': '{\\n   \"errcode\": 60003\\n}'}" ]
+    } ],
+    "uid" : "3988600b242415f4f28edc09e2f534f8"
+  }, {
+    "name" : "获取部门管理列表",
+    "children" : [ {
+      "name" : "test_get_department_list[cases0]",
+      "uid" : "482cbfd5da42a00e",
+      "parentUid" : "e3e5d3eedb314ec1bbb3711d214bf698",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611475703984,
+        "stop" : 1611475704537,
+        "duration" : 553
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'case_description': '获取部门正常1', 'author': 'wangyonghui', 'case_url': 'https://qyapi.weixin.qq.com/cgi-bin/department/list', 'case_method': 'get', 'case_params': '{\\n   \"id\": 2\\n}', 'case_body': '', 'case_expect': '{\\n   \"errcode\": 0\\n}'}" ]
+    }, {
+      "name" : "test_get_department_list[cases1]",
+      "uid" : "5bb2fe5d0b5bb3a5",
+      "parentUid" : "e3e5d3eedb314ec1bbb3711d214bf698",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611475704540,
+        "stop" : 1611475705105,
+        "duration" : 565
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'case_description': '获取部门正常2', 'author': 'wangyonghui', 'case_url': 'https://qyapi.weixin.qq.com/cgi-bin/department/list', 'case_method': 'get', 'case_params': '{\\n   \"id\": 3\\n}', 'case_body': '', 'case_expect': '{\\n   \"errcode\": 0\\n}'}" ]
+    }, {
+      "name" : "test_get_department_list[cases2]",
+      "uid" : "de22485e5d8bf57f",
+      "parentUid" : "e3e5d3eedb314ec1bbb3711d214bf698",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611475705108,
+        "stop" : 1611475705647,
+        "duration" : 539
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'case_description': '获取部门异常', 'author': 'wangyonghui', 'case_url': 'https://qyapi.weixin.qq.com/cgi-bin/department/list', 'case_method': 'get', 'case_params': '{\\n   \"id\": \"\"\\n}', 'case_body': '', 'case_expect': '{\\n   \"errcode\": 0\\n}'}" ]
+    } ],
+    "uid" : "e3e5d3eedb314ec1bbb3711d214bf698"
+  }, {
+    "name" : "删除部门管理",
+    "children" : [ {
+      "name" : "test_delete_department[cases0]",
+      "uid" : "a013ea52ce622b41",
+      "parentUid" : "75d4d4d6dc4a98937d77b8d40290b4e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611475705650,
+        "stop" : 1611475706262,
+        "duration" : 612
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'case_description': '删除部门正常1', 'author': 'wangyonghui', 'case_url': 'https://qyapi.weixin.qq.com/cgi-bin/department/delete', 'case_method': 'get', 'case_params': '{\\n   \"id\": 2\\n}', 'case_body': '', 'case_expect': '{\\n   \"errcode\": 0\\n}'}" ]
+    }, {
+      "name" : "test_delete_department[cases1]",
+      "uid" : "dcc40a80f3ea6b62",
+      "parentUid" : "75d4d4d6dc4a98937d77b8d40290b4e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611475706265,
+        "stop" : 1611475706899,
+        "duration" : 634
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'case_description': '删除部门正常2', 'author': 'wangyonghui', 'case_url': 'https://qyapi.weixin.qq.com/cgi-bin/department/delete', 'case_method': 'get', 'case_params': '{\\n   \"id\": 3\\n}', 'case_body': '', 'case_expect': '{\\n   \"errcode\": 0\\n}'}" ]
+    }, {
+      "name" : "test_delete_department[cases2]",
+      "uid" : "43a85875e95ffead",
+      "parentUid" : "75d4d4d6dc4a98937d77b8d40290b4e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611475706902,
+        "stop" : 1611475707490,
+        "duration" : 588
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'case_description': '删除部门异常', 'author': 'wangyonghui', 'case_url': 'https://qyapi.weixin.qq.com/cgi-bin/department/delete', 'case_method': 'get', 'case_params': '{\\n   \"id\": \"\"\\n}', 'case_body': '', 'case_expect': '{\\n   \"errcode\": 40058\\n}'}" ]
+    } ],
+    "uid" : "75d4d4d6dc4a98937d77b8d40290b4e9"
+  } ]
+}

@@ -1,0 +1,2 @@
+INFO     manger_department:mange_department.py:65 url: https://qyapi.weixin.qq.com/cgi-bin/department/list
+INFO     manger_department:mange_department.py:66 params: {'access_token': 'TQW-Eghlg4iQuyhni54P8ovm5jEEjWIJyyDxU61G_okShjT6vzA67qcPq5-OL4kBP4ng58vpFfnW0lIk6q_OOv4JjHb0k_hF_XuDlk_0n5vIoW-uhEFr-41NTS24PuWNJBS_rTCjTP1A1GjMoVX8gPQZZBKPPb1kPoAwiK_JnYk-FWYTGtpBRu0sTSpw8q4GUNf29fvw7pyRmQNxgcIV3g', 'id': ''}
