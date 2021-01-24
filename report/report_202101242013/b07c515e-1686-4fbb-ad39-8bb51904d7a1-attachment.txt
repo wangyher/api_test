@@ -1,2 +1,0 @@
-[32mINFO    [0m manger_department:mange_department.py:65 url: https://qyapi.weixin.qq.com/cgi-bin/department/list
-[32mINFO    [0m manger_department:mange_department.py:66 params: {'access_token': 'IYBccmOhsDPPtO1GA9Q0sxiTbQhQ4ILrekzygWeazFtoFQ5v0nCPUx1mUVTmdIkbf5blrDOQwJvyMvotzGsWOpWOqZzOTHTK8Ew8K0QVJh726MScNUjcRwLOs1rWoQEOiAT8uOn52snGI0mUyU069Q9KlsxlgSd63LkDbsS5DmmiNufpffIkL16opiEvwW-5cT2j6y-2_scc476qFliUxg', 'id': 3}

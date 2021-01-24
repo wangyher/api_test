@@ -4,7 +4,7 @@ import pytest
 import subprocess
 
 sys.path.append("../")
-current_time = time.strftime("%Y%m%d%H%M", time.localtime(time.time()))
+current_time = time.strftime("%Y%m%d", time.localtime(time.time()))
 
 if __name__ == "__main__":
     # allure 报告生成路径
